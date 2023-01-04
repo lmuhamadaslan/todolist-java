@@ -12,9 +12,9 @@ public class App {
         // testInput();
         // testViewShowTodolist();
         // testViewAddTodoList();
-        // testViewRemoveTodoList();
+        testViewRemoveTodoList();
 
-        viewShowTodoList();
+        // viewShowTodoList();
 
     }
 
